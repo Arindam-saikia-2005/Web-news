@@ -1,0 +1,32 @@
+
+
+.first{
+    margin-top: 1000px;
+    height: 250px;
+    width: 100%;
+    background-color:rgba(128, 128, 128, 0.564);
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+    padding: 20px;
+}
+
+.second{
+    display: flex;
+    padding: 10px;
+}
+
+.resources{
+    padding: 20px;
+    
+}
+
+
+.follow{
+    padding: 20px;
+}
+
+
+.legal{
+    padding: 20px;
+}
